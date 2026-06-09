@@ -1,7 +1,7 @@
 # 🛌 Snorevix — Smart Anti-Snoring IoT Pillow System
 
 ## 👥 Team
-- N. Rajinallasivam
+- N. Raji
 - A. Rachel
 - P. Deepsika
 
