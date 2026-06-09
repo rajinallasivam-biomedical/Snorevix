@@ -38,3 +38,13 @@ and Firebase cloud.
 ## ⚠️ Note
 Full source code not public — Patent pending 
 (Application No: 202541120145)
+
+## 📱 App Screenshots
+
+| Dashboard Normal | Dashboard Mild | Dashboard Severe |
+|-----------------|----------------|-----------------|
+| ![](Dashboard\(Normal%20condition\).jpeg) | ![](Dashboard\(Mild%20Snoring\).jpeg) | ![](Dashboard\(Severe%20Snoring\).jpeg) |
+
+| Login | Graphs | History |
+|-------|--------|---------|
+| ![](Login%20page.jpeg) | ![](Graphs.jpeg) | ![](History%20details%20page.jpeg) |
